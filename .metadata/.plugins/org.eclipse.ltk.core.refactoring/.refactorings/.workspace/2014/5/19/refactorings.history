@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/Gravity" element2="/Gravity-android" element3="/Gravity-desktop" element4="/Gravity-robovm" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1399369362890"/>
+</session>

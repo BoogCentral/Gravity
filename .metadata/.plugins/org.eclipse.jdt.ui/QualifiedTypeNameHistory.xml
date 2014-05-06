@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.stevebough.gravity.Gravity"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.input.GestureDetector.GestureListener"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.input.GestureDetector"/>
+<fullyQualifiedTypeName name="com.stevebough.gravity.InputHandler"/>
+<fullyQualifiedTypeName name="com.stevebough.gravity.game.GamePiece"/>
+<fullyQualifiedTypeName name="com.stevebough.gravity.GameScreen"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.ui.List"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.stevebough.gravity.game.GameBoard"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.BitmapFont"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Shape.Type"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.InputEvent.Type"/>
+<fullyQualifiedTypeName name="com.sun.jndi.url.corbaname.corbanameURLContextFactory"/>
+<fullyQualifiedTypeName name="aurelienribon.tweenengine.TweenUtils"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicInternalFrameTitlePane.MoveAction"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Texture"/>
+<fullyQualifiedTypeName name="aurelienribon.tweenengine.Tween"/>
+<fullyQualifiedTypeName name="aurelienribon.tweenengine.TweenManager"/>
+<fullyQualifiedTypeName name="com.stevebough.gravity.MovablePiece"/>
+<fullyQualifiedTypeName name="com.stevebough.gravity.MovablePiece.MovablePieceAccessor"/>
+<fullyQualifiedTypeName name="com.stevebough.gravity.MovablePieceAccessor"/>
+<fullyQualifiedTypeName name="aurelienribon.tweenengine.equations.Quart"/>
+<fullyQualifiedTypeName name="aurelienribon.tweenengine.equations.Bounce"/>
+<fullyQualifiedTypeName name="com.stevebough.gravity.game.GamePiece.Colour"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.InputListener"/>
+<fullyQualifiedTypeName name="android.view.Gravity"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Group"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.Actor"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.InputEvent"/>
+</qualifiedTypeNameHistroy>

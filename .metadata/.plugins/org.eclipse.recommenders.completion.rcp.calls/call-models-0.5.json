@@ -1,0 +1,22 @@
+{
+  "C:\\Program Files\\Java\\jre6\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "H:\\Stuff\\Development\\Gravity\\Gravity\\libs\\gdx.jar": {
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity\\libs\\gdx.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027H:\\Stuff\\Development\\Gravity\\Gravity\\libs\\gdx.jar\u0027. Neither fingerprint \u0027e9caaf3e96b0fc1d60db9f80ca30091d63fa08c8\u0027 nor symbolic name \u0027gdx\u0027 are known."
+  },
+  "H:\\Stuff\\Development\\Gravity\\Gravity\\src": {
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027H:\\Stuff\\Development\\Gravity\\Gravity\\src\u0027. Skipped."
+  },
+  "H:\\Stuff\\Development\\Gravity\\Gravity\\libs\\tween-engine-api.jar": {
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity\\libs\\tween-engine-api.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027H:\\Stuff\\Development\\Gravity\\Gravity\\libs\\tween-engine-api.jar\u0027. Neither fingerprint \u00278be8beb70b7ccae059d523e56670f6e44fb1821f\u0027 nor symbolic name \u0027tween-engine-api\u0027 are known."
+  }
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f32542c8434fe858ccdf22268d7a6fc5d60aa125",
+    "jarFileModificationDate": "2011-11-21T13:28:51.910Z",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8f132406a3a24842242815287e32bb1d7ed0b97",
+    "jarFileModificationDate": "2014-02-13T11:40:22.070Z",
+    "location": "H:\\android-sdk\\platforms\\android-19\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "de55a4b2983cf5a13193a4608afb1c1bbb4917c5",
+    "jarFileModificationDate": "2011-11-21T13:28:53.740Z",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2357317d1e1f14937b3bda942c58791ee1dba581",
+    "jarFileModificationDate": "2011-11-21T13:28:51.760Z",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "gdx",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e9caaf3e96b0fc1d60db9f80ca30091d63fa08c8",
+    "jarFileModificationDate": "2014-03-03T10:06:50.905Z",
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity\\libs\\gdx.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0291c376892d71518905b96b156834389a0da26c",
+    "jarFileModificationDate": "2011-11-21T13:28:51.881Z",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "gdx-backend-lwjgl-natives",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c539f2c7d14189f5dc57306727587d1184e17773",
+    "jarFileModificationDate": "2014-03-03T10:06:48.896Z",
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity-desktop\\libs\\gdx-backend-lwjgl-natives.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tween-engine-api",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8be8beb70b7ccae059d523e56670f6e44fb1821f",
+    "jarFileModificationDate": "2014-03-03T10:06:52.248Z",
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity\\libs\\tween-engine-api.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66b82371df2ca9a04ef05856cc56273a43523494",
+    "jarFileModificationDate": "2011-11-21T13:28:54.120Z",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "57ea68cad4553964c9a96f147da0d74029527eeb",
+    "jarFileModificationDate": "2011-11-21T13:28:51.754Z",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "gdx-backend-android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e6ed10fcab343a4b6c0663c7445399306b8ed366",
+    "jarFileModificationDate": "2014-03-03T10:06:47.325Z",
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity-android\\libs\\gdx-backend-android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "179a29263150b391806513a6b1cf9e53980a6dbd",
+    "jarFileModificationDate": "2011-11-21T13:28:54.158Z",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "gdx-backend-android-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "698b05ecb2f20461569bbff285f2f7878cc39ef2",
+    "jarFileModificationDate": "2014-03-03T10:06:51.669Z",
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity-android\\libs\\gdx-backend-android-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gdx-backend-lwjgl",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c77e35b34755033194881996824ab30a18352ad6",
+    "jarFileModificationDate": "2014-03-03T10:06:49.358Z",
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity-desktop\\libs\\gdx-backend-lwjgl.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gdx-natives",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d3f888ccffe47cd0ecdeaad539ea1fb81a58aef8",
+    "jarFileModificationDate": "2014-03-03T10:06:49.811Z",
+    "location": "H:\\Stuff\\Development\\Gravity\\Gravity-desktop\\libs\\gdx-natives.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4e5a3f111b8b7820904ee6bbd7702c0d9db0d074",
+    "jarFileModificationDate": "2011-11-21T13:28:53.787Z",
+    "location": "C:\\Program Files\\Java\\jre6\\lib\\jsse.jar",
+    "javaRuntime": true
+  }
+]
